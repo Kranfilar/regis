@@ -1,0 +1,17 @@
+{
+	"name": "backend",
+	"version": "1.0.0,
+	"description": "",
+	"scripts": "nodemon src/index.js",
+	"keywords": [],
+	"author": "Matheus Alves — The Kranfilar",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"date-fns": "^2.28.0",
+		"mongoose": "^5.9.5"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.2"
+	}
+}
